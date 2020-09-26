@@ -1,4 +1,4 @@
-**QOSF-Screening-Task**
+# QOSF-Screening-Task
 
 Task 2 of the QOSF Screening task was implemented in python using PennyLane.
 
